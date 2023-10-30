@@ -37,12 +37,8 @@ https://github.com/sphinx-doc/sphinx/issues/3382
 BUILDDIR      = docs
 ```
 
+5. Run `make html` then add, commit and push the repo.
 
+6. In your project config, choose to use the docs folder for your GitHub Pages.
 
-
-
-Run make html then add, commit and push the repo.
-
-In your project config, choose to use the docs folder for your GitHub Pages.
-
-visit https://<username>.github.io/<repo>
+7. The page is available at https://<username>.github.io/<repo>
