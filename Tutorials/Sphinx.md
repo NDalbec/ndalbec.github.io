@@ -41,4 +41,4 @@ BUILDDIR      = docs
 
 6. In your project config, choose to use the docs folder for your GitHub Pages.
 
-7. The page is available at https://<username>.github.io/<repo>
+7. The page is available at `https://<username>.github.io/<repo>`
