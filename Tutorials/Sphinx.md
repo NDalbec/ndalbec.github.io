@@ -6,7 +6,7 @@ Install
 pip install Sphinx
 ```
 
-Make html fro files 
+Make html from files 
 
 ```
 make html
