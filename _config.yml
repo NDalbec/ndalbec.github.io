@@ -1,4 +1,4 @@
-title: Confusion
+title: Nicolas Dalbec-Constant
 author:
   name: Nicolas Dalbec-Constant
   email: nicolas.dalbec-constant@polymtl.ca
@@ -6,9 +6,8 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  I'm a master student in engineering physics at Polytechnique Montreal specializing 
+  in the application of AI in photonics. 
 
 # Build settings
 
