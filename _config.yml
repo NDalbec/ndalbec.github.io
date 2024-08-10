@@ -5,9 +5,7 @@ author:
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  I'm a master student in engineering physics at Polytechnique Montreal specializing 
-  in the application of AI in photonics. 
+#description: >
 
 # Build settings
 
@@ -21,8 +19,6 @@ plugins:
 
 minima:
   # Minima date format.
-  # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
-  #
   date_format: "%b %-d, %Y"
   
 
