@@ -51,7 +51,8 @@ minima:
 #
 header_pages:
    - Projects.md
-   - Tutorials.md
+   - Experience.md
+   - Notes.md
 
 # Set to `true` to show excerpts on the homepage.
 #
