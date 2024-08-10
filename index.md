@@ -3,4 +3,4 @@ Informations
 
 I'm a master student in engineering physics at Polytechnique Montreal specializing in the application of AI in photonics. 
 
-[Notes]
+[See my notes](Notes.md)
