@@ -20,7 +20,7 @@ author:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-polyglot
+  - abcjs
   #- jekyll-remote-theme
 
 
