@@ -20,8 +20,8 @@ author:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-polyglot
   #- jekyll-remote-theme
-
 
 
 # If you clone the Minima repo and build locally, use this setting.

@@ -6,10 +6,16 @@ My memory might not be perfect, but I rely on detailed notes and good organizati
 Programming
 -----------
 
- - [Anaconda (Environment Manager)](Notes/Conda.md)
- - [GitHub (Code Backup and Version control)](Notes/GitHub.md)
- - [Marp (Markdown Slides)](Notes/Marp.md)
- - [Sphinx (Automatic Documentation)](Notes/Sphinx.md)
- - [Requirements.txt (Automatic Requiment File)](Notes/RequirementsCreation.md)
+ - [Anaconda (Environment Manager)](Notes/Programming/Conda.md)
+ - [GitHub (Code Backup and Version control)](Notes/Programming/GitHub.md)
+ - [Markdown (References for syntax)](Notes/Programming/Markdown.md)
+ - [Marp (Markdown Slides)](Notes/Programming/Marp.md)
+ - [Sphinx (Automatic Documentation)](Notes/Programming/Sphinx.md)
+ - [Requirements.txt (Automatic Requiment File)](Notes/Programming/RequirementsCreation.md)
 
 
+Free Time
+---------
+
+ - [Learning Guitar](Notes/Fun/Guitar.md)
+ - [Reading Music](Notes/Fun/ReadingMusic.md)
