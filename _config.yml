@@ -13,7 +13,7 @@ author:
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
-#theme: minima
+# theme: minima
 remote_theme: jekyll/minima
 
 # As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
@@ -24,6 +24,7 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 # Theme-specific settings
 
