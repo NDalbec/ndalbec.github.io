@@ -25,7 +25,7 @@ plugins:
 
 
 # If you clone the Minima repo and build locally, use this setting.
-# theme: minima
+theme: minima
 remote_theme: jekyll/minima
 
 # Theme-specific settings
