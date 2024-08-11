@@ -20,13 +20,13 @@ author:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-remote-theme
+  #- jekyll-remote-theme
 
 
 
 # If you clone the Minima repo and build locally, use this setting.
-#theme: minima
-remote_theme: jekyll/minima
+theme: minima
+# remote_theme: jekyll/minima
 
 # Theme-specific settings
 
