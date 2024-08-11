@@ -26,11 +26,12 @@ minima:
   # Generate social links in footer.
   #
   social_links:
+    - { platform: github,           user_url: "https://github.com/NDalbec" }
   #   - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #   - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #   - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
   #   - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
-    - { platform: github,           user_url: "https://github.com/NDalbec" }
+    
   #   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
   #   - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
   #   - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
@@ -50,11 +51,11 @@ header_pages:
    - Projects.md
    - Experience.md
    - Notes.md
-    - [Anaconda (Environment Manager)](Notes/Conda.md)
-    - [GitHub (Code Backup and Version control)](Notes/GitHub.md)
-    - [Marp (Markdown Slides)](Notes/Marp.md)
-    - [Sphinx (Automatic Documentation)](Notes/Sphinx.md)
-    - [Requirements.txt (Automatic Requiment File)](Notes/RequirementsCreation.md)
+    - Notes/Conda.md
+    - Notes/GitHub.md
+    - Notes/Marp.md
+    - Notes/Sphinx.md
+    - Notes/RequirementsCreation.md
 
 # Set to `true` to show excerpts on the homepage.
 #
