@@ -13,7 +13,8 @@ author:
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
-theme: minima
+#theme: minima
+remote_theme: jekyll/minima
 
 # As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
 # If you want to use the latest Minima version on GitHub Pages, use the following setting and 
@@ -47,7 +48,7 @@ header_pages:
 # solarized-dark	   Dark variant of solarized color scheme.
 # solarized	         Adaptive skin for solarized color scheme skins.
 minima:
-  skin: auto
+  skin: dark
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
@@ -60,7 +61,7 @@ minima:
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
   #  - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
-    - { platform: github,           user_url: "https://github.com/NDalbec" }
+    platform: github,           user_url: "https://github.com/NDalbec"
   #  - { platform: gitlab,         user_url: "https://gitlab.com/jekyll" }
   #  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
   #  - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
