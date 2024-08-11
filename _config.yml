@@ -50,6 +50,11 @@ header_pages:
    - Projects.md
    - Experience.md
    - Notes.md
+    - [Anaconda (Environment Manager)](Notes/Conda.md)
+    - [GitHub (Code Backup and Version control)](Notes/GitHub.md)
+    - [Marp (Markdown Slides)](Notes/Marp.md)
+    - [Sphinx (Automatic Documentation)](Notes/Sphinx.md)
+    - [Requirements.txt (Automatic Requiment File)](Notes/RequirementsCreation.md)
 
 # Set to `true` to show excerpts on the homepage.
 #
