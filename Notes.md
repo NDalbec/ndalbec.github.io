@@ -17,5 +17,5 @@ Programming
 Free Time
 ---------
 
-[comment]: <> ( - [Learning Guitar](Notes/Fun/Guitar.md))
-[comment]: <> ( - [Reading Music](Notes/Fun/ReadingMusic.md))
+<!--- - [Learning Guitar](Notes/Fun/Guitar.md)) --->
+<!--- - [Reading Music](Notes/Fun/ReadingMusic.md)) --->
